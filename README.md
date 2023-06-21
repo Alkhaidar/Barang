@@ -1,0 +1,2 @@
+# Barang
+Aplikasi Pengelolaan Barang
